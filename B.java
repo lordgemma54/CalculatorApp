@@ -1,5 +1,7 @@
 public class B {
-        System.out.println("file B");
-
+        public void fileB () {
+                System.out.println("file B");
+                System.out.println("one more change made to file B");
+}
 
 }
